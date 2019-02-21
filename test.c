@@ -2,7 +2,7 @@
 int main()
 {
   int i;
-  For(i=0;i<5;i++)
+  for(i=0;i<5;i++)
   {
   printf("%d ",i);
   }
